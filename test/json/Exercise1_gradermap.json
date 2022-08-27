@@ -1,0 +1,1 @@
+{"A@B.com": ["E@F.io", "C@D.edu"], "C@D.edu": ["A@B.com", "E@F.io"], "E@F.io": ["C@D.edu", "A@B.com"]}
